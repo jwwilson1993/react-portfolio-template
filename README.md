@@ -6,13 +6,6 @@ This project focuses on **component architecture, reusability, and scalability**
 
 ---
 
-## 🔗 Live Demo
-
-👉 [View Live Site](#)
-👉 [View Source Code](#)
-
----
-
 ## ✨ Features
 
 * Responsive design across desktop and mobile
@@ -97,7 +90,9 @@ Dark/light mode is stored in `localStorage` to preserve user preference across s
 
 ## 📸 Screenshots
 
-*(Add desktop + mobile screenshots here)*
+<p align="center">
+  <img src="src/assets/desktop.png" width="800" />
+</p>
 
 ---
 
@@ -105,7 +100,7 @@ Dark/light mode is stored in `localStorage` to preserve user preference across s
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/jwwilson1993/portfolio-template.git
 
 # Navigate into the project
 cd your-repo
